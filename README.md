@@ -1,4 +1,4 @@
-# 🌟 Conversor de Moneda WRH3 🌟
+# 🌟 ForoHub WRH3 🌟
 
 ¡Bienvenido a ForoHub WRH3! Este programa es un API que te permite Realizar diferentes solicitudes REST:
 * Iniciar Sesion
